@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Soutane';
+  src: url('soutane-webfont.eot');
+  src: url('soutane-webfont.eot?#iefix') format('embedded-opentype'),
+    url('soutane-webfont.woff') format('woff'),
+    url('soutane-webfont.ttf') format('truetype'),
+    url('soutane-webfont.svg#soutaneregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
