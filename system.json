@@ -1,0 +1,36 @@
+{
+  "id": "ICON",
+  "title": "ICON",
+  "description": "VTT Foundry system for Tom Bloom's TTRPG ICON",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": 13,
+    "verified": 13
+  },
+  "authors": [
+    {
+      "name": "Fanfan",
+      "url": "https://github.com/Fanfan-idk",
+      "email": "mf4ntasy@gmail.com",
+      "discord": "mfantasy"
+    }
+  ],
+  "esmodules": ["module/iconsystem.mjs"],
+  "styles": ["styles/icon-styles.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "grid": {
+    "distance": 1,
+    "units": "unit"
+  },
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.shield",
+  "url": "https://github.com/Fanfan-idk/ICON",
+  "license": "LICENSE.txt"
+}
