@@ -15,8 +15,14 @@
       "discord": "mfantasy"
     }
   ],
-  "esmodules": ["module/iconsystem.mjs"],
+  "esmodules": ["iconsystem.mjs"],
   "styles": ["styles/icon-styles.css"],
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "ennemy": {}
+    }
+  },
   "packs": [],
   "languages": [
     {
